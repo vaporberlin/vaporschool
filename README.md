@@ -12,5 +12,6 @@ All projects have a tutorial written on medium and a lot of comments to get the 
 - ### Elementary
   - [My First Route](https://github.com/vaporberlin/my-first-route)
   - [My First Leaf-Template](https://github.com/vaporberlin/my-first-leaf-template)
+  - [My First Model](https://github.com/vaporberlin/my-first-model)
 - ### Secondary
 - ### College
