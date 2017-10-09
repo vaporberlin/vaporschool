@@ -13,5 +13,6 @@ All projects have a tutorial written on medium and a lot of comments to get the 
   - [My First Route](https://github.com/vaporberlin/my-first-route)
   - [My First Leaf-Template](https://github.com/vaporberlin/my-first-leaf-template)
   - [My First Model](https://github.com/vaporberlin/my-first-model)
+  - [My First Controller](https://github.com/vaporberlin/my-first-controller)
 - ### Secondary
 - ### College
