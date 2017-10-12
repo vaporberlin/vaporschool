@@ -5,10 +5,9 @@
   <br>
 </p>
 
-# VaporSchool!
 With VaporSchool it doesn't matter how experienced you are. Be it you just started with vapor or already implemented some apps. I want to help you to get to the next level!
 
-**Each project focuses on a specific topic and has a tutorial written on medium to help you *understand* it! 😊**
+> Each project focuses on a specific topic and has a tutorial written on medium to help you *understand* it! 😊
 - ### Elementary
   - [My First Route](https://github.com/vaporberlin/my-first-route)
   - [My First Leaf-Template](https://github.com/vaporberlin/my-first-leaf-template)
