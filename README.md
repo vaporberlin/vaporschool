@@ -1,14 +1,14 @@
 <p align="center">
   <br>
-  <img width="300" src="logo_t.png" alt="nerd">
+  <img width="250" src="logo_t.png" alt="nerd">
   <br>
   <br>
 </p>
 
 # VaporSchool!
-> This repository is meant to list all templates and tutorials in a way you can start knowing zero and become advanced in a natural way!
+With VaporSchool it doesn't matter how experienced you are. Be it you just started with vapor or already implemented some apps. I want to help you to get to the next level!
 
-All projects have a tutorial written on medium and a lot of comments to get the most out of them 😊
+**Each project focuses on a specific topic and has a tutorial written on medium to help you *understand* it! 😊**
 - ### Elementary
   - [My First Route](https://github.com/vaporberlin/my-first-route)
   - [My First Leaf-Template](https://github.com/vaporberlin/my-first-leaf-template)
