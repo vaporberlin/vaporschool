@@ -14,5 +14,6 @@ With VaporSchool it doesn't matter how experienced you are. Be it you just start
   - [My First Model](https://github.com/vaporberlin/my-first-model)
   - [My First Controller](https://github.com/vaporberlin/my-first-controller)
   - [My First CRUD using Leaf](https://github.com/vaporberlin/my-first-crud-using-leaf)
+  - [My First CRUD using JSON](https://github.com/vaporberlin/my-first-crud-using-json)
 - ### Advanced
 - ### Expert
