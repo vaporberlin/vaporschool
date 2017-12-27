@@ -17,4 +17,5 @@ With VaporSchool it doesn't matter how experienced you are. Be it you just start
   - [My First CRUD using JSON](https://github.com/vaporberlin/my-first-crud-using-json)
 - ### Advanced
   - [One-To-Many Relations](https://github.com/vaporberlin/one-to-many-relations)
+  - [Basic Auth with Session](https://github.com/vaporberlin/basic-auth-with-session)
 - ### Expert
