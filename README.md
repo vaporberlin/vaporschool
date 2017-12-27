@@ -4,7 +4,6 @@
 Each project focuses on one specific topic and explains it in a tutorial written on medium to help you learn it! 😊
 ___
 ## Get started with Vapor 2!
-___
 - ### Starter
   - [My First Route](https://github.com/vaporberlin/my-first-route)
   - [My First Leaf-Template](https://github.com/vaporberlin/my-first-leaf-template)
