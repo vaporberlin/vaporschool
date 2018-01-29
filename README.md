@@ -17,4 +17,5 @@ ___
 - ### Intermediate
   - [One-To-Many Relations](https://github.com/vaporberlin/one-to-many-relations)
   - [Basic Auth with Session](https://github.com/vaporberlin/basic-auth-with-session)
+  - [Image Upload](https://github.com/vaporberlin/image-upload)
 - ### Experienced
