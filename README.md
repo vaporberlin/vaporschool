@@ -7,7 +7,7 @@ ___
 ## Get started with VAPOR 3!
 - ### Starter
   - [My First Route](https://github.com/vaporberlin/my-first-route)
-  - My First Leaf-Template
+  - [My First Leaf-Template](https://github.com/vaporberlin/my-first-leaf-template)
   - My First Model
   - My First Controller
   - My First Database (MySQL)
