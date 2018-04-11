@@ -10,7 +10,7 @@ ___
   - [My First Leaf-Template](https://github.com/vaporberlin/my-first-leaf-template)
   - [My First Model](https://github.com/vaporberlin/my-first-model)
   - [My First Controller](https://github.com/vaporberlin/my-first-controller)
-  - My First Database (MySQL)
+  - [My First Database (MySQL)](https://github.com/vaporberlin/my-first-database-mysql)
   - My First Database (PostgreSQL)
   - My First Database (MongoDB)
   - My First CRUD using Leaf
