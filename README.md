@@ -19,4 +19,8 @@ ___
   - One-To-Many Relations
   - Basic Auth with Session
   - Image Upload
+  - Video Upload
+  - Chat using Websockets
 - ### Experienced
+  - Twitter Double
+  - Youtube Double
