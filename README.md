@@ -11,7 +11,7 @@ ___
   - [My First Model](https://github.com/vaporberlin/my-first-model)
   - [My First Controller](https://github.com/vaporberlin/my-first-controller)
   - [My First Database (MySQL)](https://github.com/vaporberlin/my-first-database-mysql)
-  - My First Database (PostgreSQL)
+  - [My First Database (PostgreSQL)](https://github.com/vaporberlin/my-first-database-postgresql/)
   - My First Database (MongoDB)
   - My First CRUD using Leaf
   - My First CRUD using JSON
