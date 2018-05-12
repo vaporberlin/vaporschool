@@ -18,6 +18,7 @@ ___
 - ### Intermediate
   - One-To-Many Relations
   - Basic Auth with Session
+  - Token Auth
   - Image Upload
   - Video Upload
   - Chat using Websockets
