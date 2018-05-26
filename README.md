@@ -23,5 +23,10 @@ ___
   - Video Upload
   - Chat using Websockets
 - ### Experienced
+  - Paypal integration
+  - Stripe integration
+  - Facebook Authentication
+  - Google Authentication
   - Twitter Double
   - Youtube Double
+  - Instagram Double
