@@ -17,7 +17,8 @@ ___
   - [My First CRUD using JSON](https://github.com/vaporberlin/my-first-crud-using-json)
 - ### Intermediate
   - One-To-Many Relations
-  - Basic Auth with Session
+  - [Web Auth with Session](https://github.com/vaporberlin/web-auth-with-session)
+  - Basic Auth
   - Token Auth
   - Image Upload
   - Video Upload
