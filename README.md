@@ -27,8 +27,8 @@ ___
 - ### Experienced
   - Paypal integration
   - Stripe integration
-  - Facebook Authentication
-  - Google Authentication
+  - Facebook Auth
+  - Google Auth
   - Twitter Double
   - Youtube Double
   - Instagram Double
