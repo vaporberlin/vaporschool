@@ -18,9 +18,9 @@ ___
 - ### Intermediate
   - One-To-Many Relations
   - [Web Auth with Session](https://github.com/vaporberlin/web-auth-with-session)
-  - Basic Authentication
-  - Bearer Authentication
-  - JWT Authentication
+  - Basic Auth
+  - Bearer Auth
+  - JWT Auth
   - Image Upload
   - Video Upload
   - Chat using Websockets
