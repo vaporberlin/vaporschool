@@ -16,7 +16,7 @@ ___
   - [My First CRUD using Leaf](https://github.com/vaporberlin/my-first-crud-using-leaf)
   - [My First CRUD using JSON](https://github.com/vaporberlin/my-first-crud-using-json)
 - ### Intermediate
-  - One-To-Many Relations
+  - [One-To-Many Relations](https://github.com/vaporberlin/one-to-many-relations)
   - [Web Auth with Session](https://github.com/vaporberlin/web-auth-with-session)
   - Basic Auth
   - Bearer Auth
