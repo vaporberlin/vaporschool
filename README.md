@@ -18,7 +18,7 @@ ___
 - ### Intermediate
   - [One-To-Many Relations](https://github.com/vaporberlin/one-to-many-relations)
   - [Web Auth with Session](https://github.com/vaporberlin/web-auth-with-session)
-  - Basic Auth
+  - [Basic Auth](https://github.com/vaporberlin/basic-auth)
   - Bearer Auth
   - JWT Auth
   - Image Upload
