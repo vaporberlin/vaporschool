@@ -1,4 +1,4 @@
-# VaporSchool
+# VaporSchool - Vapor 2 (Discontinued)
 ### [Link to VaporSchool for Vapor 3](https://github.com/vaporberlin/vaporschool)
 #### With VaporSchool it doesn't matter how experienced you are. Be it you just started with Vapor or already implemented some apps. I want to help you to get to the next level!
 Each project focuses on one specific topic and explains it in a tutorial written on medium to help you learn it! 😊
