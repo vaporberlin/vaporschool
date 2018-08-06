@@ -23,7 +23,12 @@ ___
   - JWT Auth
   - Image Upload
   - Video Upload
+  - Validation
+  - Migration
+  - Testing
+  - Middleware
   - Chat using Websockets
+  - Leaf (Everything Covered)
 - ### Experienced
   - Paypal integration
   - Stripe integration
