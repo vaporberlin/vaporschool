@@ -30,7 +30,7 @@ ___
   - Middleware
   - Chat using Websockets
   - Leaf (Everything Covered)
-  - Creating an own Library/Depenendy
+  - Creating an own Library/Dependency
 - ### Experienced
   - Paypal integration
   - Stripe integration
