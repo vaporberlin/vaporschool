@@ -17,6 +17,7 @@ ___
   - [My First CRUD using JSON](https://github.com/vaporberlin/my-first-crud-using-json)
 - ### Intermediate
   - [One-To-Many Relations](https://github.com/vaporberlin/one-to-many-relations)
+  - Many-To-Many Relations
   - [Web Auth with Session](https://github.com/vaporberlin/web-auth-with-session)
   - [Basic Auth](https://github.com/vaporberlin/basic-auth)
   - Bearer Auth
@@ -29,6 +30,7 @@ ___
   - Middleware
   - Chat using Websockets
   - Leaf (Everything Covered)
+  - Creating an own Library/Depenendy
 - ### Experienced
   - Paypal integration
   - Stripe integration
