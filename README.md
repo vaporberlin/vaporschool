@@ -20,7 +20,7 @@ ___
   - Many-To-Many Relations
   - [Web Auth with Session](https://github.com/vaporberlin/web-auth-with-session)
   - [Basic Auth](https://github.com/vaporberlin/basic-auth)
-  - Bearer Auth
+  - [Bearer Auth](https://github.com/vaporberlin/bearer-auth)
   - JWT Auth
   - Image Upload
   - Video Upload
