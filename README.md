@@ -27,7 +27,7 @@ ___
   - Validation
   - Migration
   - Testing
-  - Middleware
+  - [Middleware](https://github.com/vaporberlin/middleware)
   - Chat using Websockets
   - Leaf (Everything Covered)
   - Creating an own Library/Dependency
